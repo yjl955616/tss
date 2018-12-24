@@ -50,4 +50,10 @@ public class TssSearchTest {
         }
         indexReader.close();
     }
+
+    @Test
+    public void m1(){
+
+    }
+
 }
